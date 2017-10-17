@@ -1,0 +1,7 @@
+{
+  "name": "Node.js API",
+  "description": "A NodeJs API ",
+  "repository": "https://github.com/jerem-uzoma/Node.js-API",
+  "keywords": ["node", "express", "heroku"],
+  "image": "heroku/nodejs"
+}
